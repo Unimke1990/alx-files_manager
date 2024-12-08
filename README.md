@@ -1,1 +1,1 @@
-javascript file manager
+Files manager in JavaScript
